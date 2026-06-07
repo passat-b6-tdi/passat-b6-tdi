@@ -112,7 +112,7 @@ Main focus areas include Solidity smart contracts, protocol security, testing, d
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b0gdaniy&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=passat-b6-tdi&theme=dark&hide_border=true)
 
 </div>
 
